@@ -13,3 +13,5 @@ Thanks Perl Monks
 5. ANSI X12 transmission decomposer
 
 6. FTP Downloader
+
+7. Remane files to lowercase
