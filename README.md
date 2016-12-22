@@ -14,4 +14,6 @@ Thanks Perl Monks
 
 6. FTP Downloader
 
-7. Dungeons and Dragons Dice Roller
+7. Remane files to lowercase
+
+8. Dungeons and Dragons Dice Roller
