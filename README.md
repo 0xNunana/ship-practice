@@ -17,3 +17,5 @@ Thanks Perl Monks
 7. Remane files to lowercase
 
 8. Dungeons and Dragons Dice Roller
+
+Added proverbs file to be sorted for the elorm project.
