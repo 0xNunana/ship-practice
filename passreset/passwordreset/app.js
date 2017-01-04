@@ -70,8 +70,9 @@ userSchema.methods.comparePassword = function(candidatePassword, cb) {
 };
 
 var User = mongoose.model('User', userSchema);
+mongoose.connect('localhost');
 
-mongoose.connect('mongodb://demo:demo@ds027759.mongolab.com:27759/demo');
+//mongoose.connect('mongodb://demo:demo@ds027759.mongolab.com:27759/demo');
 //mongoose.connect('mongodb://demo:-ht?RDH8*D7*Gv[Qq@ds151018.mlab.com:51018/passreset');
 var app = express();
 
